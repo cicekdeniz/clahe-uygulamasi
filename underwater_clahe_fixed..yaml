@@ -1,0 +1,5 @@
+train: C:\public\yolov5\underwater_dataset\train\images
+val:   C:\public\yolov5\underwater_dataset\valid\images
+
+nc: 4
+names: ['echinus', 'starfish', 'scallop', 'holothurian']
