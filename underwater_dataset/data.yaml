@@ -2,8 +2,7 @@ train: C:/public/yolov5/underwater_dataset/train/images
 val: C:/public/yolov5/underwater_dataset/valid/images
 
 nc: 4
-names: ['echinus', 'starfish', 'scallop', 'holothurian']
-
+names: ["echinus", "starfish", "scallop", "holothurian"]
 
 roboflow:
   workspace: underwater-fish-f6cri
@@ -11,6 +10,3 @@ roboflow:
   version: 3
   license: CC BY 4.0
   url: https://universe.roboflow.com/underwater-fish-f6cri/urpc2019-nrbk1/dataset/3
-
-
-
