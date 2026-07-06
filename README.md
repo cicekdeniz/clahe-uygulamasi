@@ -63,4 +63,4 @@ This project is built on top of the [Ultralytics YOLOv5](https://github.com/ultr
 
 ---
 
-*Developed as part of an internship at AGH University of Krakow.*
+_Developed as part of an internship at AGH University of Krakow._
